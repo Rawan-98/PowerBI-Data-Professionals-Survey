@@ -34,7 +34,7 @@ The Power BI dashboard was designed to answer the following key questions:
 
 ## 🖼️ Dashboard Preview
 
-<img width="887" height="502" alt="PowerBI" src="https://github.com/user-attachments/assets/9aee4ede-1eb3-447a-9a36-0d628a1bbe92" />
+<img width="876" height="498" alt="Screenshot 2025-08-20 133152" src="https://github.com/user-attachments/assets/bd925c2d-0610-408a-b655-0a4d95748bf0" />
 
 ---
 ## 👩‍💻 About Me
